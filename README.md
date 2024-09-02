@@ -1,5 +1,3 @@
-[![](https://dcbadge.vercel.app/api/server/BAYB3A38wn)](https://discord.turtywurty.dev)
-
 ### Hi there, I'm MC-datapck 👋
 
 ## I'm a a mod and datapck developer!
