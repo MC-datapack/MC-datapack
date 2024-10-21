@@ -1,6 +1,6 @@
 ### Hi there, I'm MC-datapck 👋
 
-## I'm a mod and datapck developer!
+## I'm a mod and datapack developer!
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MC-datapack&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
